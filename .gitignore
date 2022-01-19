@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/FirstCoreWebApplication/FirstCoreWebApplication/bin/Debug/netcoreapp3.1
+/FirstCoreWebApplication/FirstCoreWebApplication/obj
+/FirstCoreWebApplication/.vs/FirstCoreWebApplication
